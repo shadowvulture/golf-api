@@ -27,7 +27,7 @@ Promise.all(calls)
 			console.error(err)
 		}
 		else {
-			console.log(`successfully wrote ${collectedData.length} records to db/news.json`)
+			console.log(`successfully wrote records to db/news.json`)
 		}
 	}) 
 })

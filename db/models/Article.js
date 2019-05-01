@@ -1,5 +1,6 @@
 const mongoose = require('../connection')
 
+
 const ArticleSchema = new mongoose.Schema({
     author: String,
     title: String,
@@ -8,10 +9,11 @@ const ArticleSchema = new mongoose.Schema({
     urlToImage: String,
     content: String,
     source: [{
-        name: String
+        ref: "Source",
+        type: mongoose.Schema.Types.ObjectId
     }]
 })
 
-let person = mongoose.model('Article', ArticleSchema)
+let article = mongoose.model('Article', ArticleSchema)
 
-module.exports = person
+module.exports = article
