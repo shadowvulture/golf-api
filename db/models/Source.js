@@ -2,7 +2,7 @@ const mongoose = require('../connection')
 
 const SourceSchema = new mongoose.Schema({
         source: [{
-            id: Number,
+            id: String,
             name: String,
             article: [{
                 ref: "Article",
