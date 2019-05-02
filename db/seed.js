@@ -1,32 +1,37 @@
 const news = require('./news.json')
-const article = require('../db/models/Article.js')
-const source = require('../db/models/Source.js')
+const Venue = require('./models/Venue.js')
+const Location = require('./models/Location.js')
+const Categories = require('./models/Categories.js')
 
-article.remove({})
 
-// person.create(people).then(() => {
-//     console.log('works')
-// })
 
-article.collection.insert(news)
-  .then(article => {
+Venue.remove({}).then(() => {
+  Venue.create(news)
+  .then(place => {
     console.log(news)
   })
   .catch(err => {
     console.log(err)
   })
 
+})
 
-  source.remove({})
-
-  // person.create(people).then(() => {
-  //     console.log('works')
-  // })
-  
-  source.collection.insert(news)
-    .then(show => {
+  Location.remove({}).then(() => {
+  Location.create(news)
+    .then(loc => {
       console.log(news)
     })
     .catch(err => {
       console.log(err)
+    })
+  })
+
+  Categories.remove({}).then(() => {
+    Categories.create(news)
+      .then(cat => {
+        console.log(news)
+      })
+      .catch(err => {
+        console.log(err)
+      })
     })

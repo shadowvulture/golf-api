@@ -2,7 +2,7 @@ const axios = require('axios')
 const fs = require('fs')
 
 
-let baseURL = 'https://newsapi.org/v2/top-headlines?category=sports&apiKey=5cff8c2357a24e4d9d7618d55a8dd110&country=us'
+let baseURL = 'https://api.foursquare.com/v2/venues/search?ll=38.8,-77.3&client_id=XBHQSN2RNRGVO4EF2QXYYLFCYBTZRS5QZT10P3H0IVLJGAI4&client_secret=WD14GA0S3SSXBWCGS0AJW2UIG4APAEYGNXENBCPKAKUNFHO3&v=20190501&categoryId=4bf58dd8d48988d1e6941735'
 let newsCount = 1
 
 let ids = []

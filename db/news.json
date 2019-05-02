@@ -1,0 +1,1271 @@
+[
+    {
+        "id": "4b52036ef964a520526127e3",
+        "name": "Trump National Golf Club",
+        "location": {
+            "address": "20391 Lowes Island Blvd",
+            "crossStreet": "Lowes Island",
+            "lat": 39.052459,
+            "lng": -77.347591,
+            "labeledLatLngs": [
+                {
+                    "label": "display",
+                    "lat": 39.052459,
+                    "lng": -77.347591
+                }
+            ],
+            "distance": 28404,
+            "postalCode": "20165",
+            "cc": "US",
+            "city": "Potomac Falls",
+            "state": "VA",
+            "country": "United States",
+            "formattedAddress": [
+                "20391 Lowes Island Blvd (Lowes Island)",
+                "Potomac Falls, VA 20165",
+                "United States"
+            ]
+        },
+        "categories": [
+            {
+                "id": "4bf58dd8d48988d1e6941735",
+                "name": "Golf Course",
+                "pluralName": "Golf Courses",
+                "shortName": "Golf Course",
+                "icon": {
+                    "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/golfcourse_",
+                    "suffix": ".png"
+                },
+                "primary": true
+            }
+        ],
+        "venuePage": {
+            "id": "528127457"
+        },
+        "referralId": "v-1556813044",
+        "hasPerk": false
+    },
+    {
+        "id": "4b4e7b89f964a5205eef26e3",
+        "name": "Woodmont Country Club",
+        "location": {
+            "address": "1201 Rockville Pike",
+            "lat": 39.0648194390877,
+            "lng": -77.14013561327208,
+            "labeledLatLngs": [
+                {
+                    "label": "display",
+                    "lat": 39.0648194390877,
+                    "lng": -77.14013561327208
+                }
+            ],
+            "distance": 32567,
+            "postalCode": "20852",
+            "cc": "US",
+            "city": "Rockville",
+            "state": "MD",
+            "country": "United States",
+            "formattedAddress": [
+                "1201 Rockville Pike",
+                "Rockville, MD 20852",
+                "United States"
+            ]
+        },
+        "categories": [
+            {
+                "id": "4bf58dd8d48988d1e6941735",
+                "name": "Golf Course",
+                "pluralName": "Golf Courses",
+                "shortName": "Golf Course",
+                "icon": {
+                    "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/golfcourse_",
+                    "suffix": ".png"
+                },
+                "primary": true
+            }
+        ],
+        "referralId": "v-1556813044",
+        "hasPerk": false
+    },
+    {
+        "id": "4bb8a95c1261d13a64c8e898",
+        "name": "Country Club of Fairfax",
+        "location": {
+            "address": "5110 Ox Rd",
+            "crossStreet": "at Zion Dr",
+            "lat": 38.821420743251245,
+            "lng": -77.32094049453735,
+            "labeledLatLngs": [
+                {
+                    "label": "display",
+                    "lat": 38.821420743251245,
+                    "lng": -77.32094049453735
+                }
+            ],
+            "distance": 2997,
+            "postalCode": "22030",
+            "cc": "US",
+            "city": "Fairfax",
+            "state": "VA",
+            "country": "United States",
+            "formattedAddress": [
+                "5110 Ox Rd (at Zion Dr)",
+                "Fairfax, VA 22030",
+                "United States"
+            ]
+        },
+        "categories": [
+            {
+                "id": "4bf58dd8d48988d1e6941735",
+                "name": "Golf Course",
+                "pluralName": "Golf Courses",
+                "shortName": "Golf Course",
+                "icon": {
+                    "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/golfcourse_",
+                    "suffix": ".png"
+                },
+                "primary": true
+            }
+        ],
+        "referralId": "v-1556813044",
+        "hasPerk": false
+    },
+    {
+        "id": "4af6e1bef964a520da0322e3",
+        "name": "East Potomac Park Golf Course",
+        "location": {
+            "address": "972 Ohio Dr SW",
+            "lat": 38.8745764378056,
+            "lng": -77.02673062929212,
+            "labeledLatLngs": [
+                {
+                    "label": "display",
+                    "lat": 38.8745764378056,
+                    "lng": -77.02673062929212
+                }
+            ],
+            "distance": 25107,
+            "postalCode": "20024",
+            "cc": "US",
+            "city": "Washington",
+            "state": "D.C.",
+            "country": "United States",
+            "formattedAddress": [
+                "972 Ohio Dr SW",
+                "Washington, D.C. 20024",
+                "United States"
+            ]
+        },
+        "categories": [
+            {
+                "id": "4bf58dd8d48988d1e6941735",
+                "name": "Golf Course",
+                "pluralName": "Golf Courses",
+                "shortName": "Golf Course",
+                "icon": {
+                    "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/golfcourse_",
+                    "suffix": ".png"
+                },
+                "primary": true
+            }
+        ],
+        "referralId": "v-1556813044",
+        "hasPerk": false
+    },
+    {
+        "id": "4be0a317cb81c9b6ff84668b",
+        "name": "Belle Haven Country Club",
+        "location": {
+            "address": "6023 Fort Hunt Rd",
+            "lat": 38.786569623227834,
+            "lng": -77.06010882107364,
+            "labeledLatLngs": [
+                {
+                    "label": "display",
+                    "lat": 38.786569623227834,
+                    "lng": -77.06010882107364
+                }
+            ],
+            "distance": 20867,
+            "postalCode": "22307",
+            "cc": "US",
+            "city": "Alexandria",
+            "state": "VA",
+            "country": "United States",
+            "formattedAddress": [
+                "6023 Fort Hunt Rd",
+                "Alexandria, VA 22307",
+                "United States"
+            ]
+        },
+        "categories": [
+            {
+                "id": "4bf58dd8d48988d1e6941735",
+                "name": "Golf Course",
+                "pluralName": "Golf Courses",
+                "shortName": "Golf Course",
+                "icon": {
+                    "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/golfcourse_",
+                    "suffix": ".png"
+                },
+                "primary": true
+            }
+        ],
+        "referralId": "v-1556813044",
+        "hasPerk": false
+    },
+    {
+        "id": "4ad7a13af964a520060d21e3",
+        "name": "Army-Navy Country Club (ARL)",
+        "location": {
+            "address": "1700 Army Navy Dr",
+            "crossStreet": "at 18th St. S",
+            "lat": 38.857304333950346,
+            "lng": -77.07914507227666,
+            "labeledLatLngs": [
+                {
+                    "label": "display",
+                    "lat": 38.857304333950346,
+                    "lng": -77.07914507227666
+                }
+            ],
+            "distance": 20186,
+            "postalCode": "22202",
+            "cc": "US",
+            "city": "Arlington",
+            "state": "VA",
+            "country": "United States",
+            "formattedAddress": [
+                "1700 Army Navy Dr (at 18th St. S)",
+                "Arlington, VA 22202",
+                "United States"
+            ]
+        },
+        "categories": [
+            {
+                "id": "4bf58dd8d48988d1e6941735",
+                "name": "Golf Course",
+                "pluralName": "Golf Courses",
+                "shortName": "Golf Course",
+                "icon": {
+                    "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/golfcourse_",
+                    "suffix": ".png"
+                },
+                "primary": true
+            }
+        ],
+        "referralId": "v-1556813044",
+        "hasPerk": false
+    },
+    {
+        "id": "4c0af556009a0f47aa68eabf",
+        "name": "Dominion Valley Country Club",
+        "location": {
+            "address": "15200 Arnold Palmer Dr",
+            "lat": 38.83578933834569,
+            "lng": -77.65357301490346,
+            "labeledLatLngs": [
+                {
+                    "label": "display",
+                    "lat": 38.83578933834569,
+                    "lng": -77.65357301490346
+                }
+            ],
+            "distance": 30924,
+            "postalCode": "20169",
+            "cc": "US",
+            "city": "Haymarket",
+            "state": "VA",
+            "country": "United States",
+            "formattedAddress": [
+                "15200 Arnold Palmer Dr",
+                "Haymarket, VA 20169",
+                "United States"
+            ]
+        },
+        "categories": [
+            {
+                "id": "4bf58dd8d48988d1e6941735",
+                "name": "Golf Course",
+                "pluralName": "Golf Courses",
+                "shortName": "Golf Course",
+                "icon": {
+                    "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/golfcourse_",
+                    "suffix": ".png"
+                },
+                "primary": true
+            }
+        ],
+        "referralId": "v-1556813044",
+        "hasPerk": false
+    },
+    {
+        "id": "4b62787bf964a520d4482ae3",
+        "name": "Penderbrook Golf Club",
+        "location": {
+            "address": "3700 Golf Trail Ln",
+            "lat": 38.87381454739763,
+            "lng": -77.36433693245671,
+            "labeledLatLngs": [
+                {
+                    "label": "display",
+                    "lat": 38.87381454739763,
+                    "lng": -77.36433693245671
+                }
+            ],
+            "distance": 9931,
+            "postalCode": "22033",
+            "cc": "US",
+            "city": "Fairfax",
+            "state": "VA",
+            "country": "United States",
+            "formattedAddress": [
+                "3700 Golf Trail Ln",
+                "Fairfax, VA 22033",
+                "United States"
+            ]
+        },
+        "categories": [
+            {
+                "id": "4bf58dd8d48988d1e6941735",
+                "name": "Golf Course",
+                "pluralName": "Golf Courses",
+                "shortName": "Golf Course",
+                "icon": {
+                    "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/golfcourse_",
+                    "suffix": ".png"
+                },
+                "primary": true
+            }
+        ],
+        "referralId": "v-1556813044",
+        "hasPerk": false
+    },
+    {
+        "id": "4b3b8a6bf964a5206c7525e3",
+        "name": "Westwood Country Club",
+        "location": {
+            "address": "800 Maple Ave E",
+            "lat": 38.9110726904315,
+            "lng": -77.25342292428502,
+            "labeledLatLngs": [
+                {
+                    "label": "display",
+                    "lat": 38.9110726904315,
+                    "lng": -77.25342292428502
+                }
+            ],
+            "distance": 13007,
+            "postalCode": "22180",
+            "cc": "US",
+            "city": "Vienna",
+            "state": "VA",
+            "country": "United States",
+            "formattedAddress": [
+                "800 Maple Ave E",
+                "Vienna, VA 22180",
+                "United States"
+            ]
+        },
+        "categories": [
+            {
+                "id": "4bf58dd8d48988d1e6941735",
+                "name": "Golf Course",
+                "pluralName": "Golf Courses",
+                "shortName": "Golf Course",
+                "icon": {
+                    "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/golfcourse_",
+                    "suffix": ".png"
+                },
+                "primary": true
+            }
+        ],
+        "referralId": "v-1556813044",
+        "hasPerk": false
+    },
+    {
+        "id": "4ad1130df964a52082dc20e3",
+        "name": "Falls Road Golf Course",
+        "location": {
+            "address": "10800 Falls Rd",
+            "lat": 39.03185268299823,
+            "lng": -77.19955444335938,
+            "labeledLatLngs": [
+                {
+                    "label": "display",
+                    "lat": 39.03185268299823,
+                    "lng": -77.19955444335938
+                }
+            ],
+            "distance": 27236,
+            "postalCode": "20854",
+            "cc": "US",
+            "city": "Potomac",
+            "state": "MD",
+            "country": "United States",
+            "formattedAddress": [
+                "10800 Falls Rd",
+                "Potomac, MD 20854",
+                "United States"
+            ]
+        },
+        "categories": [
+            {
+                "id": "4bf58dd8d48988d1e6941735",
+                "name": "Golf Course",
+                "pluralName": "Golf Courses",
+                "shortName": "Golf Course",
+                "icon": {
+                    "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/golfcourse_",
+                    "suffix": ".png"
+                },
+                "primary": true
+            }
+        ],
+        "referralId": "v-1556813044",
+        "hasPerk": false
+    },
+    {
+        "id": "4ba94e11f964a520351d3ae3",
+        "name": "Kenwood Country Club",
+        "location": {
+            "address": "5601 River Rd",
+            "lat": 38.97083212120326,
+            "lng": -77.11187721396117,
+            "labeledLatLngs": [
+                {
+                    "label": "display",
+                    "lat": 38.97083212120326,
+                    "lng": -77.11187721396117
+                }
+            ],
+            "distance": 25047,
+            "postalCode": "20816",
+            "cc": "US",
+            "city": "Bethesda",
+            "state": "MD",
+            "country": "United States",
+            "formattedAddress": [
+                "5601 River Rd",
+                "Bethesda, MD 20816",
+                "United States"
+            ]
+        },
+        "categories": [
+            {
+                "id": "4bf58dd8d48988d1e6941735",
+                "name": "Golf Course",
+                "pluralName": "Golf Courses",
+                "shortName": "Golf Course",
+                "icon": {
+                    "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/golfcourse_",
+                    "suffix": ".png"
+                },
+                "primary": true
+            }
+        ],
+        "referralId": "v-1556813044",
+        "hasPerk": false
+    },
+    {
+        "id": "4b102b63f964a520796a23e3",
+        "name": "Lakewood Country Club",
+        "location": {
+            "address": "13901 Glen Mill Rd",
+            "lat": 39.083935880141475,
+            "lng": -77.19512275630004,
+            "labeledLatLngs": [
+                {
+                    "label": "display",
+                    "lat": 39.083935880141475,
+                    "lng": -77.19512275630004
+                }
+            ],
+            "distance": 32885,
+            "postalCode": "20850",
+            "cc": "US",
+            "city": "Rockville",
+            "state": "MD",
+            "country": "United States",
+            "formattedAddress": [
+                "13901 Glen Mill Rd",
+                "Rockville, MD 20850",
+                "United States"
+            ]
+        },
+        "categories": [
+            {
+                "id": "4bf58dd8d48988d1e6941735",
+                "name": "Golf Course",
+                "pluralName": "Golf Courses",
+                "shortName": "Golf Course",
+                "icon": {
+                    "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/golfcourse_",
+                    "suffix": ".png"
+                },
+                "primary": true
+            }
+        ],
+        "referralId": "v-1556813044",
+        "hasPerk": false
+    },
+    {
+        "id": "4ba507bbf964a520d6d238e3",
+        "name": "1757 Golf Club",
+        "location": {
+            "address": "45120 Waxpool Rd",
+            "lat": 39.00878343520026,
+            "lng": -77.44656175818788,
+            "labeledLatLngs": [
+                {
+                    "label": "display",
+                    "lat": 39.00878343520026,
+                    "lng": -77.44656175818788
+                }
+            ],
+            "distance": 26483,
+            "postalCode": "20166",
+            "cc": "US",
+            "city": "Sterling",
+            "state": "VA",
+            "country": "United States",
+            "formattedAddress": [
+                "45120 Waxpool Rd",
+                "Sterling, VA 20166",
+                "United States"
+            ]
+        },
+        "categories": [
+            {
+                "id": "4bf58dd8d48988d1e6941735",
+                "name": "Golf Course",
+                "pluralName": "Golf Courses",
+                "shortName": "Golf Course",
+                "icon": {
+                    "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/golfcourse_",
+                    "suffix": ".png"
+                },
+                "primary": true
+            }
+        ],
+        "referralId": "v-1556813044",
+        "hasPerk": false
+    },
+    {
+        "id": "4bb6356ff562ef3bf8ca2f97",
+        "name": "Pinecrest Golf Course",
+        "location": {
+            "lat": 38.823761628583924,
+            "lng": -77.16341542453938,
+            "labeledLatLngs": [
+                {
+                    "label": "display",
+                    "lat": 38.823761628583924,
+                    "lng": -77.16341542453938
+                }
+            ],
+            "distance": 12139,
+            "postalCode": "22312",
+            "cc": "US",
+            "city": "Alexandria",
+            "state": "VA",
+            "country": "United States",
+            "formattedAddress": [
+                "Alexandria, VA 22312",
+                "United States"
+            ]
+        },
+        "categories": [
+            {
+                "id": "4bf58dd8d48988d1e6941735",
+                "name": "Golf Course",
+                "pluralName": "Golf Courses",
+                "shortName": "Golf Course",
+                "icon": {
+                    "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/golfcourse_",
+                    "suffix": ".png"
+                },
+                "primary": true
+            }
+        ],
+        "referralId": "v-1556813044",
+        "hasPerk": false
+    },
+    {
+        "id": "4af5c7ecf964a520befc21e3",
+        "name": "Chevy Chase Club",
+        "location": {
+            "address": "6100 Connecticut Ave",
+            "lat": 38.9744907033838,
+            "lng": -77.07758903503418,
+            "labeledLatLngs": [
+                {
+                    "label": "display",
+                    "lat": 38.9744907033838,
+                    "lng": -77.07758903503418
+                }
+            ],
+            "distance": 27362,
+            "postalCode": "20815",
+            "cc": "US",
+            "city": "Chevy Chase",
+            "state": "MD",
+            "country": "United States",
+            "formattedAddress": [
+                "6100 Connecticut Ave",
+                "Chevy Chase, MD 20815",
+                "United States"
+            ]
+        },
+        "categories": [
+            {
+                "id": "4bf58dd8d48988d1e6941735",
+                "name": "Golf Course",
+                "pluralName": "Golf Courses",
+                "shortName": "Golf Course",
+                "icon": {
+                    "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/golfcourse_",
+                    "suffix": ".png"
+                },
+                "primary": true
+            }
+        ],
+        "referralId": "v-1556813044",
+        "hasPerk": false
+    },
+    {
+        "id": "4bb606b1ef159c74fc4b75f7",
+        "name": "Virginia Oaks Golf Club",
+        "location": {
+            "address": "7950 Virginia Oaks Dr",
+            "lat": 38.78134053148829,
+            "lng": -77.61455919990706,
+            "labeledLatLngs": [
+                {
+                    "label": "display",
+                    "lat": 38.78134053148829,
+                    "lng": -77.61455919990706
+                }
+            ],
+            "distance": 27372,
+            "postalCode": "20155",
+            "cc": "US",
+            "city": "Gainesville",
+            "state": "VA",
+            "country": "United States",
+            "formattedAddress": [
+                "7950 Virginia Oaks Dr",
+                "Gainesville, VA 20155",
+                "United States"
+            ]
+        },
+        "categories": [
+            {
+                "id": "4bf58dd8d48988d1e6941735",
+                "name": "Golf Course",
+                "pluralName": "Golf Courses",
+                "shortName": "Golf Course",
+                "icon": {
+                    "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/golfcourse_",
+                    "suffix": ".png"
+                },
+                "primary": true
+            }
+        ],
+        "referralId": "v-1556813044",
+        "hasPerk": false
+    },
+    {
+        "id": "4b460204f964a5200d1426e3",
+        "name": "Congressional Country Club",
+        "location": {
+            "address": "8500 River Rd",
+            "lat": 38.99557696052779,
+            "lng": -77.1764958649147,
+            "labeledLatLngs": [
+                {
+                    "label": "display",
+                    "lat": 38.99557696052779,
+                    "lng": -77.1764958649147
+                }
+            ],
+            "distance": 24258,
+            "postalCode": "20817",
+            "cc": "US",
+            "city": "Bethesda",
+            "state": "MD",
+            "country": "United States",
+            "formattedAddress": [
+                "8500 River Rd",
+                "Bethesda, MD 20817",
+                "United States"
+            ]
+        },
+        "categories": [
+            {
+                "id": "4bf58dd8d48988d1e6941735",
+                "name": "Golf Course",
+                "pluralName": "Golf Courses",
+                "shortName": "Golf Course",
+                "icon": {
+                    "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/golfcourse_",
+                    "suffix": ".png"
+                },
+                "primary": true
+            }
+        ],
+        "referralId": "v-1556813044",
+        "hasPerk": false
+    },
+    {
+        "id": "4b529d27f964a520f48327e3",
+        "name": "Hidden Creek Country Club",
+        "location": {
+            "address": "1711 Clubhouse Rd",
+            "lat": 38.96183948304532,
+            "lng": -77.34608455624758,
+            "labeledLatLngs": [
+                {
+                    "label": "display",
+                    "lat": 38.96183948304532,
+                    "lng": -77.34608455624758
+                }
+            ],
+            "distance": 18453,
+            "postalCode": "20190",
+            "cc": "US",
+            "city": "Reston",
+            "state": "VA",
+            "country": "United States",
+            "formattedAddress": [
+                "1711 Clubhouse Rd",
+                "Reston, VA 20190",
+                "United States"
+            ]
+        },
+        "categories": [
+            {
+                "id": "4bf58dd8d48988d1e6941735",
+                "name": "Golf Course",
+                "pluralName": "Golf Courses",
+                "shortName": "Golf Course",
+                "icon": {
+                    "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/golfcourse_",
+                    "suffix": ".png"
+                },
+                "primary": true
+            }
+        ],
+        "referralId": "v-1556813044",
+        "hasPerk": false
+    },
+    {
+        "id": "4bbf4588b083a593c119a3e9",
+        "name": "TPC Potomac at Avenel Farm",
+        "location": {
+            "address": "10000 Oaklyn Dr",
+            "lat": 38.98901410741319,
+            "lng": -77.20264499356273,
+            "labeledLatLngs": [
+                {
+                    "label": "display",
+                    "lat": 38.98901410741319,
+                    "lng": -77.20264499356273
+                }
+            ],
+            "distance": 22668,
+            "postalCode": "20854",
+            "cc": "US",
+            "city": "Potomac",
+            "state": "MD",
+            "country": "United States",
+            "formattedAddress": [
+                "10000 Oaklyn Dr",
+                "Potomac, MD 20854",
+                "United States"
+            ]
+        },
+        "categories": [
+            {
+                "id": "4bf58dd8d48988d1e6941735",
+                "name": "Golf Course",
+                "pluralName": "Golf Courses",
+                "shortName": "Golf Course",
+                "icon": {
+                    "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/golfcourse_",
+                    "suffix": ".png"
+                },
+                "primary": true
+            }
+        ],
+        "referralId": "v-1556813044",
+        "hasPerk": false
+    },
+    {
+        "id": "4a8c7e40f964a520400e20e3",
+        "name": "Washington Golf and Country Club",
+        "location": {
+            "address": "4427 Rock Spring Rd.",
+            "crossStreet": "at N Glebe Rd.",
+            "lat": 38.90755987149274,
+            "lng": -77.13023081939862,
+            "labeledLatLngs": [
+                {
+                    "label": "display",
+                    "lat": 38.90755987149274,
+                    "lng": -77.13023081939862
+                }
+            ],
+            "distance": 18972,
+            "postalCode": "22207",
+            "cc": "US",
+            "city": "Arlington",
+            "state": "VA",
+            "country": "United States",
+            "formattedAddress": [
+                "4427 Rock Spring Rd. (at N Glebe Rd.)",
+                "Arlington, VA 22207",
+                "United States"
+            ]
+        },
+        "categories": [
+            {
+                "id": "4bf58dd8d48988d1e6941735",
+                "name": "Golf Course",
+                "pluralName": "Golf Courses",
+                "shortName": "Golf Course",
+                "icon": {
+                    "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/golfcourse_",
+                    "suffix": ".png"
+                },
+                "primary": true
+            }
+        ],
+        "referralId": "v-1556813044",
+        "hasPerk": false
+    },
+    {
+        "id": "4db5a7546a23c31a032ee3f6",
+        "name": "Belmont Country Club",
+        "location": {
+            "address": "Belmont Manor Ln",
+            "lat": 39.06903935515833,
+            "lng": -77.49658750811757,
+            "labeledLatLngs": [
+                {
+                    "label": "display",
+                    "lat": 39.06903935515833,
+                    "lng": -77.49658750811757
+                }
+            ],
+            "distance": 34448,
+            "postalCode": "20147",
+            "cc": "US",
+            "city": "Ashburn",
+            "state": "VA",
+            "country": "United States",
+            "formattedAddress": [
+                "Belmont Manor Ln",
+                "Ashburn, VA 20147",
+                "United States"
+            ]
+        },
+        "categories": [
+            {
+                "id": "4bf58dd8d48988d1e6941735",
+                "name": "Golf Course",
+                "pluralName": "Golf Courses",
+                "shortName": "Golf Course",
+                "icon": {
+                    "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/golfcourse_",
+                    "suffix": ".png"
+                },
+                "primary": true
+            }
+        ],
+        "referralId": "v-1556813044",
+        "hasPerk": false
+    },
+    {
+        "id": "4baa5dc7f964a52061633ae3",
+        "name": "International Country Club",
+        "location": {
+            "address": "13200 Lee Jackson Memorial Hwy",
+            "lat": 38.884010678950574,
+            "lng": -77.40183815391107,
+            "labeledLatLngs": [
+                {
+                    "label": "display",
+                    "lat": 38.884010678950574,
+                    "lng": -77.40183815391107
+                }
+            ],
+            "distance": 12861,
+            "postalCode": "22033",
+            "cc": "US",
+            "city": "Fairfax",
+            "state": "VA",
+            "country": "United States",
+            "formattedAddress": [
+                "13200 Lee Jackson Memorial Hwy",
+                "Fairfax, VA 22033",
+                "United States"
+            ]
+        },
+        "categories": [
+            {
+                "id": "4bf58dd8d48988d1e6941735",
+                "name": "Golf Course",
+                "pluralName": "Golf Courses",
+                "shortName": "Golf Course",
+                "icon": {
+                    "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/golfcourse_",
+                    "suffix": ".png"
+                },
+                "primary": true
+            }
+        ],
+        "referralId": "v-1556813044",
+        "hasPerk": false
+    },
+    {
+        "id": "4b11bae7f964a5204a8323e3",
+        "name": "Springfield Golf and Country Club",
+        "location": {
+            "address": "8301 Old Keene Mill Rd",
+            "crossStreet": "at Rolling Rd",
+            "lat": 38.77869231636126,
+            "lng": -77.23043673644335,
+            "labeledLatLngs": [
+                {
+                    "label": "display",
+                    "lat": 38.77869231636126,
+                    "lng": -77.23043673644335
+                }
+            ],
+            "distance": 6485,
+            "postalCode": "22152",
+            "cc": "US",
+            "city": "Springfield",
+            "state": "VA",
+            "country": "United States",
+            "formattedAddress": [
+                "8301 Old Keene Mill Rd (at Rolling Rd)",
+                "Springfield, VA 22152",
+                "United States"
+            ]
+        },
+        "categories": [
+            {
+                "id": "4bf58dd8d48988d1e6941735",
+                "name": "Golf Course",
+                "pluralName": "Golf Courses",
+                "shortName": "Golf Course",
+                "icon": {
+                    "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/golfcourse_",
+                    "suffix": ".png"
+                },
+                "primary": true
+            }
+        ],
+        "referralId": "v-1556813044",
+        "hasPerk": false
+    },
+    {
+        "id": "4c3a1af2ae2da593d5ac03c6",
+        "name": "Piedmont Country Club",
+        "location": {
+            "address": "14652 Piedmont Vista Dr",
+            "lat": 38.82572866251903,
+            "lng": -77.62701811026294,
+            "labeledLatLngs": [
+                {
+                    "label": "display",
+                    "lat": 38.82572866251903,
+                    "lng": -77.62701811026294
+                }
+            ],
+            "distance": 28509,
+            "postalCode": "20169",
+            "cc": "US",
+            "city": "Haymarket",
+            "state": "VA",
+            "country": "United States",
+            "formattedAddress": [
+                "14652 Piedmont Vista Dr",
+                "Haymarket, VA 20169",
+                "United States"
+            ]
+        },
+        "categories": [
+            {
+                "id": "4bf58dd8d48988d1e6941735",
+                "name": "Golf Course",
+                "pluralName": "Golf Courses",
+                "shortName": "Golf Course",
+                "icon": {
+                    "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/golfcourse_",
+                    "suffix": ".png"
+                },
+                "primary": true
+            }
+        ],
+        "referralId": "v-1556813044",
+        "hasPerk": false
+    },
+    {
+        "id": "4b6bea4df964a5206a1c2ce3",
+        "name": "Mount Vernon Country Club",
+        "location": {
+            "address": "5111 Old Mill Rd",
+            "crossStreet": "cooper",
+            "lat": 38.71527065202952,
+            "lng": -77.12418356062028,
+            "labeledLatLngs": [
+                {
+                    "label": "display",
+                    "lat": 38.71527065202952,
+                    "lng": -77.12418356062028
+                }
+            ],
+            "distance": 17941,
+            "postalCode": "22309",
+            "cc": "US",
+            "city": "Alexandria",
+            "state": "VA",
+            "country": "United States",
+            "formattedAddress": [
+                "5111 Old Mill Rd (cooper)",
+                "Alexandria, VA 22309",
+                "United States"
+            ]
+        },
+        "categories": [
+            {
+                "id": "4bf58dd8d48988d1e6941735",
+                "name": "Golf Course",
+                "pluralName": "Golf Courses",
+                "shortName": "Golf Course",
+                "icon": {
+                    "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/golfcourse_",
+                    "suffix": ".png"
+                },
+                "primary": true
+            }
+        ],
+        "referralId": "v-1556813044",
+        "hasPerk": false
+    },
+    {
+        "id": "4b23fe14f964a520925e24e3",
+        "name": "Columbia Country Club",
+        "location": {
+            "address": "7900 Connecticut Ave",
+            "crossStreet": "at East West Highway",
+            "lat": 38.98914019225566,
+            "lng": -77.07806251863822,
+            "labeledLatLngs": [
+                {
+                    "label": "display",
+                    "lat": 38.98914019225566,
+                    "lng": -77.07806251863822
+                }
+            ],
+            "distance": 28513,
+            "postalCode": "20815",
+            "cc": "US",
+            "city": "Chevy Chase",
+            "state": "MD",
+            "country": "United States",
+            "formattedAddress": [
+                "7900 Connecticut Ave (at East West Highway)",
+                "Chevy Chase, MD 20815",
+                "United States"
+            ]
+        },
+        "categories": [
+            {
+                "id": "4bf58dd8d48988d1e6941735",
+                "name": "Golf Course",
+                "pluralName": "Golf Courses",
+                "shortName": "Golf Course",
+                "icon": {
+                    "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/golfcourse_",
+                    "suffix": ".png"
+                },
+                "primary": true
+            }
+        ],
+        "referralId": "v-1556813044",
+        "hasPerk": false
+    },
+    {
+        "id": "4b4a014af964a520b37726e3",
+        "name": "Heritage Hunt Golf & Country Club",
+        "location": {
+            "address": "6901 Arthur Hills Dr",
+            "crossStreet": "at Heritage Hunt Dr",
+            "lat": 38.80744749955226,
+            "lng": -77.60037551196713,
+            "labeledLatLngs": [
+                {
+                    "label": "display",
+                    "lat": 38.80744749955226,
+                    "lng": -77.60037551196713
+                }
+            ],
+            "distance": 26070,
+            "postalCode": "20155",
+            "cc": "US",
+            "city": "Gainesville",
+            "state": "VA",
+            "country": "United States",
+            "formattedAddress": [
+                "6901 Arthur Hills Dr (at Heritage Hunt Dr)",
+                "Gainesville, VA 20155",
+                "United States"
+            ]
+        },
+        "categories": [
+            {
+                "id": "4bf58dd8d48988d1e6941735",
+                "name": "Golf Course",
+                "pluralName": "Golf Courses",
+                "shortName": "Golf Course",
+                "icon": {
+                    "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/golfcourse_",
+                    "suffix": ".png"
+                },
+                "primary": true
+            }
+        ],
+        "referralId": "v-1556813044",
+        "hasPerk": false
+    },
+    {
+        "id": "4bbf95e6b492d13a3ce9a260",
+        "name": "Jefferson Park Golf Course",
+        "location": {
+            "address": "Hyson Ln",
+            "crossStreet": "Lee Hwy.",
+            "lat": 38.87638119728343,
+            "lng": -77.21526256139258,
+            "labeledLatLngs": [
+                {
+                    "label": "display",
+                    "lat": 38.87638119728343,
+                    "lng": -77.21526256139258
+                }
+            ],
+            "distance": 11237,
+            "cc": "US",
+            "city": "Falls Church",
+            "state": "VA",
+            "country": "United States",
+            "formattedAddress": [
+                "Hyson Ln (Lee Hwy.)",
+                "Falls Church, VA",
+                "United States"
+            ]
+        },
+        "categories": [
+            {
+                "id": "4bf58dd8d48988d1e6941735",
+                "name": "Golf Course",
+                "pluralName": "Golf Courses",
+                "shortName": "Golf Course",
+                "icon": {
+                    "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/golfcourse_",
+                    "suffix": ".png"
+                },
+                "primary": true
+            }
+        ],
+        "referralId": "v-1556813044",
+        "hasPerk": false
+    },
+    {
+        "id": "4c1abdeeeac020a145cf43c2",
+        "name": "River Bend Golf & Country Club",
+        "location": {
+            "address": "375 Walker Rd",
+            "lat": 39.02095093837568,
+            "lng": -77.28703630295014,
+            "labeledLatLngs": [
+                {
+                    "label": "display",
+                    "lat": 39.02095093837568,
+                    "lng": -77.28703630295014
+                }
+            ],
+            "distance": 24621,
+            "postalCode": "22066",
+            "cc": "US",
+            "city": "Great Falls",
+            "state": "VA",
+            "country": "United States",
+            "formattedAddress": [
+                "375 Walker Rd",
+                "Great Falls, VA 22066",
+                "United States"
+            ]
+        },
+        "categories": [
+            {
+                "id": "4bf58dd8d48988d1e6941735",
+                "name": "Golf Course",
+                "pluralName": "Golf Courses",
+                "shortName": "Golf Course",
+                "icon": {
+                    "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/golfcourse_",
+                    "suffix": ".png"
+                },
+                "primary": true
+            }
+        ],
+        "referralId": "v-1556813044",
+        "hasPerk": false
+    },
+    {
+        "id": "4c0a5444340720a19e2c8693",
+        "name": "Oak Marr Golf Complex",
+        "location": {
+            "address": "3200 Jermantown Rd",
+            "lat": 38.876012348764284,
+            "lng": -77.31642605219147,
+            "labeledLatLngs": [
+                {
+                    "label": "display",
+                    "lat": 38.876012348764284,
+                    "lng": -77.31642605219147
+                }
+            ],
+            "distance": 8580,
+            "postalCode": "22124",
+            "cc": "US",
+            "city": "Oakton",
+            "state": "VA",
+            "country": "United States",
+            "formattedAddress": [
+                "3200 Jermantown Rd",
+                "Oakton, VA 22124",
+                "United States"
+            ]
+        },
+        "categories": [
+            {
+                "id": "4bf58dd8d48988d1e6941735",
+                "name": "Golf Course",
+                "pluralName": "Golf Courses",
+                "shortName": "Golf Course",
+                "icon": {
+                    "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/golfcourse_",
+                    "suffix": ".png"
+                },
+                "primary": true
+            }
+        ],
+        "referralId": "v-1556813044",
+        "hasPerk": false
+    }
+]

@@ -1,12 +1,12 @@
 const express = require("express")
 const router = express.Router()
 
-const Article = require('../db/models/Article')
+const Categories = require('../db/models/Categories')
 
 router.get('/', (req, res) => {
-    Article.find({})
-      .then(piece => {
-        res.json(piece)
+    Categories.find({})
+      .then(cat => {
+        res.json(cat)
       })
   })
 

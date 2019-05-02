@@ -1,12 +1,12 @@
 const express = require("express")
 const router = express.Router()
 
-const Source = require('../db/models/Source')
+const Location = require('../db/models/Location')
 
 router.get('/', (req, res) => {
-    Source.find({})
-      .then(src => {
-        res.json(src)
+    Location.find({})
+      .then(loc => {
+        res.json(loc)
       })
   })
 
