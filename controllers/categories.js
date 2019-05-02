@@ -10,4 +10,26 @@ router.get('/', (req, res) => {
       })
   })
 
+  
+  router.post('/', (req, res) => {
+    Categories.create(req.body)
+      .then(cat => {
+        res.json(cat)
+      })
+    })
+
+    router.put('/', (req, res) => {
+        Categories.findOne({name: req.params.name}, req.body)
+          .then(cat => {
+            res.json(cat)
+          })
+      })
+
+      router.delete('/', (req, res) => {
+        Categories.delete({name: req.params.name})
+          .then(cat => {
+            res.json(cat)
+          })
+      })
+
 module.exports = router

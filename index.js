@@ -13,7 +13,7 @@ app.use(bodyParser.json())
 // app.use('/', (req, res) => {
 //     res.redirect('/api/bookmarks/')
 // })
-app.use('/api/article/', venueController)
+app.use('/api/venue/', venueController)
 app.use('/api/location/', locationController)
 app.use('/api/categories/', categoriesController)
 

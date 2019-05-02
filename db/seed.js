@@ -16,22 +16,14 @@ Venue.remove({}).then(() => {
 
 })
 
-  Location.remove({}).then(() => {
-  Location.create(news)
-    .then(loc => {
-      console.log(news)
-    })
-    .catch(err => {
-      console.log(err)
-    })
-  })
+// Location.remove({}).then(() => {
+//   Location.create(news)
+//   .then(loc => {
+//     console.log(news)
+//   })
+//   .catch(err => {
+//     console.log(err)
+//   })
 
-  Categories.remove({}).then(() => {
-    Categories.create(news)
-      .then(cat => {
-        console.log(news)
-      })
-      .catch(err => {
-        console.log(err)
-      })
-    })
+// })
+
