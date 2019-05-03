@@ -34,7 +34,7 @@ Then, click "body" -> click the "raw" radio button, and type the following into 
 }
 
 Updating a golf course with new data can be done similarly.  
-In Postman, select PUT and then type the following URL:   https://va-golf-api.herokuapp.com/api/venue/<insert course id number>
+In Postman, select PUT and then type the following URL:   https://va-golf-api.herokuapp.com/api/venue/<insert course _id number>
 In the body, type out, similar to above, the data you wish to update. 
 
 To DELETE a golf course, enter the following url: https://va-golf-api.herokuapp.com/api/venue/<insertname>
