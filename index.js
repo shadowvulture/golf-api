@@ -17,9 +17,12 @@ app.use('/api/venue/', venueController)
 app.use('/api/location/', locationController)
 app.use('/api/categories/', categoriesController)
 
-app.listen(process.env.PORT || 3000, function(){
-    console.log("Express server listening on port %d in %s mode", this.address().port, app.settings.env);
-  });
-app.listen(8081, () => console.log('They see me rollin...on port 8081...'))
+app.set("port", process.env.PORT || 3001)
+
+app.listen(app.get("port"), () => {
+  console.log(`✅ PORT: ${app.get("port")} 🌟`)
+})
+
+// app.listen(8081, () => console.log('They see me rollin...on port 8081...'))
 
 
